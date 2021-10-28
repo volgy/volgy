@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Peter Volgyesi (@volgy), a Principal Research Scientist at Vanderbilt University
+- 👀 I’m interested in wireless sensor networks, signal processing, software-defined radios, and AI
+- 📫 You can reach at at peter.volgyesi@gmail.com
